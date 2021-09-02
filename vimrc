@@ -24,8 +24,6 @@ Plugin 'w0rp/ale'
 Plugin 'trusktr/seti.vim'
 Plugin 'keith/parsec.vim'
 
-colorscheme seti
-
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
 filetype plugin indent on    " required
